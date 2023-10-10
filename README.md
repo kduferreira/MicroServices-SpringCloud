@@ -5,3 +5,7 @@ O Sistema faz uma etapa para criacao de um cartao de credito, um microserviço f
 Ferramentas usadas no projeto:
 - Java 11
 - Spring 2.6
+- MySQL / h2 database
+- RabiitMQ
+- Keycloak
+- Docker
